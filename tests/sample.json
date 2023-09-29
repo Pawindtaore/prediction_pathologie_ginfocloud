@@ -1,0 +1,11 @@
+{
+    "Age (en mois)" : 420,	
+    "Sexe" : "M",
+    "Poids (kg)" : 80,	
+    "Symptome_1" : "Tremblements",	
+    "Symptome_2" : "Sueurs",	
+    "Symptome_3" : "Anxiété",	
+    "Symptome_4" : "Aucun",	
+    "Symptome_5" : "Aucun",		
+    "Pathologie" : "Maladie"
+}
