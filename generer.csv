@@ -1,0 +1,1161 @@
+Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Symptome_1,Pathologie
+7.0,M,7.0,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+5.0,F,6.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+18.0,M,9.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+24.0,F,11.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+48.0,M,15.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+6.0,F,8.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+15.0,M,9.2,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+8.0,F,7.8,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+36.0,M,13.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+9.0,F,7.2,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+15.0,F,10.5,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+10.0,M,8.7,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+24.0,F,12.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+36.0,M,16.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+14.0,F,9.8,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+7.0,M,7.0,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+5.0,F,6.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+18.0,M,9.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+24.0,F,11.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+96.0,M,15.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+6.0,F,8.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+15.0,M,9.2,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+8.0,F,7.8,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+36.0,M,13.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+9.0,F,7.2,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+15.0,F,10.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+10.0,M,8.7,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+24.0,F,12.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+36.0,M,16.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+14.0,F,9.8,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+5.0,M,7.0,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+8.0,F,6.5,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+16.0,M,8.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+24.0,F,11.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+85.0,M,15.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+6.0,F,8.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+14.0,M,9.2,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+8.0,F,7.8,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+39.0,M,13.0,aucun,aucun,aucun,insuffisance pondérale,malnutrition,Amaigrissement
+9.0,F,7.2,aucun,aucun,insuffisance pondérale,entéropathie chronique,malnutrition,Amaigrissement
+6.0,M,5.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
+18.0,F,7.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
+42.0,M,9.5,aucun,dyspnée,vertiges,asthénie,pâleur,Anémie
+96.0,F,20.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+120.0,M,50.0,aucun,soif,vertiges,asthénie,pâleur,Anémie
+48.0,F,10.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+144.0,M,55.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+192.0,F,60.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
+72.0,M,14.0,aucun,aucun,aucun,état de choc,pâleur,Anémie
+216.0,F,63.0,aucun,dyspnée,soif,asthénie,pâleur,Anémie
+84.0,M,15.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+240.0,F,68.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
+168.0,M,58.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+288.0,F,73.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+96.0,M,20.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
+180.0,F,60.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
+120.0,M,50.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+240.0,F,68.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+144.0,M,55.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+312.0,F,78.0,aucun,dyspnée,vertiges,asthénie,pâleur,Anémie
+30.0,M,8.5,aucun,aucun,aucun,asthénie,pâleur,Anémie
+60.0,F,13.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
+90.0,M,11.2,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+168.0,F,17.8,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+270.0,M,21.5,aucun,aucun,aucun,soif,pâleur,Anémie
+150.0,F,16.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+210.0,M,18.3,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+360.0,F,26.7,aucun,aucun,aucun,asthénie,pâleur,Anémie
+480.0,M,35.2,aucun,aucun,tachycardie,état de choc,pâleur,Anémie
+540.0,F,39.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+720.0,M,45.8,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+216.0,F,19.4,aucun,aucun,aucun,sueur,pâleur,Anémie
+480.0,M,40.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+720.0,F,60.2,aucun,aucun,aucun,asthénie,pâleur,Anémie
+180.0,M,15.1,aucun,aucun,aucun,vertiges,pâleur,Anémie
+240.0,F,20.7,aucun,aucun,aucun,tachycardie,pâleur,Anémie
+360.0,M,29.5,aucun,aucun,aucun,sueur,pâleur,Anémie
+480.0,F,40.3,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+600.0,M,50.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
+440.0,F,39.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
+60.0,M,20.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+84.0,F,22.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+48.0,M,18.0,aucun,aucun,aucun,bouquets de vésicules,fièvre modérée,Angine
+72.0,M,24.0,aucun,aucun,aucun,aucun,chancre syphilitique de l'amygdale,Angine
+96.0,M,26.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+36.0,F,14.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+108.0,M,28.0,aucun,aucun,aucun,aucun,ulcérations sur les amygdales,Angine
+12.0,F,10.0,aucun,aucun,aucun,aucun,gorge rouge,Angine
+120.0,M,30.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+48.0,F,16.0,aucun,aucun,aucun,aucun,chancre syphilitique de l'amygdale,Angine
+132.0,M,32.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+72.0,M,34.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+144.0,M,36.0,aucun,aucun,aucun,aucun,bouquets de vésicules,Angine
+84.0,F,38.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+156.0,M,26.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+96.0,F,24.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+168.0,M,36.0,aucun,aucun,aucun,aucun,chancre syphilitique de l'amygdale,Angine
+108.0,F,40.0,aucun,aucun,aucun,aucun,ulcérations sur les amygdales,Angine
+180.0,M,24.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+744.0,F,77.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+420.0,F,90.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+396.0,M,65.0,aucun,aucun,aucun,bouquets de vésicules,fièvre modérée,Angine
+756.0,M,68.0,aucun,aucun,aucun,aucun,gorge rouge,Angine
+732.0,F,92.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+576.0,M,76.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+312.0,F,80.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+396.0,M,72.0,aucun,aucun,aucun,bouquets de vésicules,fièvre modérée,Angine
+660.0,F,80.0,aucun,aucun,aucun,aucun,gorge rouge,Angine
+504.0,F,65.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+372.0,M,73.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+660.0,M,64.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+480.0,F,94.0,aucun,aucun,aucun,bouquets de vésicules,fièvre modérée,Angine
+432.0,M,92.0,aucun,aucun,aucun,aucun,gorge rouge,Angine
+552.0,F,89.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+696.0,F,95.0,aucun,aucun,aucun,gorge rouge,fièvre modérée,Angine
+552.0,F,75.0,aucun,aucun,aucun,aucun,gorge rouge avec fausse membrane,Angine
+228.0,F,96.0,aucun,aucun,aucun,bouquets de vésicules,fièvre modérée,Angine
+456.0,M,58.0,aucun,aucun,aucun,aucun,gorge rouge,Angine
+396.0,M,60.0,aucun,aucun,enduit blanchâtre,gorge rouge,fièvre modérée,Angine
+118.0,M,27.0,aucun,aucun,aucun,aucun,ulcérations sur les amygdales,Angine
+336.0,M,76.0,aucun,aucun,aucun,sensation de malaise,inquiétude envahissante,Anxiété
+420.0,F,62.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie,Anxiété
+504.0,M,80.0,aucun,aucun,difficulté d’endormissement,bouche sèche,inquiétude excessive,Anxiété
+348.0,F,55.0,aucun,aucun,aucun,sensation de gorge nouée,peur irrationnelle,Anxiété
+444.0,M,70.0,aucun,aucun,douleurs,nervosité,préoccupation excessive,Anxiété
+372.0,F,58.0,aucun,aucun,malaise,tendance à l'isolement,peur irrationnelle,Anxiété
+468.0,M,75.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des araignées,Anxiété
+324.0,F,60.0,aucun,aucun,aucun,sensation de malaise,inquiétude envahissante,Anxiété
+408.0,M,78.0,aucun,aucun,difficulté d’endormissement,bouche sèche,préoccupation excessive,Anxiété
+384.0,F,73.0,aucun,aucun,difficulté d’endormissement,bouche sèche,préoccupation excessive,Anxiété
+348.0,M,61.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des transports,Anxiété
+432.0,F,79.0,aucun,aucun,aucun,sensation de gorge nouée,inquiétude constante,Anxiété
+492.0,M,57.0,aucun,aucun,bouffées de chaleur,irritabilité,peur irrationnelle,Anxiété
+312.0,F,74.0,aucun,aucun,aucun,tendance à l'isolement,inquiétude envahissante,Anxiété
+396.0,M,59.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+360.0,F,77.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+456.0,M,63.0,aucun,aucun,aucun,tendance à l'isolement,inquiétude envahissante,Anxiété
+360.0,F,68.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+420.0,M,61.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des transports,Anxiété
+372.0,F,75.0,aucun,aucun,aucun,sensation de gorge nouée,inquiétude constante,Anxiété
+324.0,F,62.0,aucun,aucun,aucun,sensation de malaise,inquiétude envahissante,Anxiété
+432.0,M,78.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie,Anxiété
+480.0,F,76.0,aucun,aucun,difficulté d’endormissement,bouche sèche,inquiétude excessive,Anxiété
+396.0,M,65.0,aucun,aucun,aucun,sensation de gorge nouée,peur irrationnelle,Anxiété
+348.0,F,69.0,aucun,aucun,douleurs,nervosité,préoccupation excessive,Anxiété
+420.0,M,72.0,aucun,aucun,malaise,tendance à l'isolement,peur irrationnelle,Anxiété
+456.0,F,67.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des araignées,Anxiété
+312.0,M,60.0,aucun,aucun,aucun,sensation de malaise,inquiétude envahissante,Anxiété
+444.0,F,71.0,aucun,aucun,difficulté d’endormissement,bouche sèche,préoccupation excessive,Anxiété
+360.0,M,58.0,aucun,aucun,difficulté d’endormissement,bouche sèche,préoccupation excessive,Anxiété
+384.0,F,63.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des transports,Anxiété
+468.0,M,75.0,aucun,aucun,aucun,sensation de gorge nouée,inquiétude constante,Anxiété
+336.0,F,64.0,aucun,aucun,bouffées de chaleur,irritabilité,peur irrationnelle,Anxiété
+372.0,M,70.0,aucun,aucun,aucun,tendance à l'isolement,inquiétude envahissante,Anxiété
+408.0,F,73.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+492.0,M,79.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+300.0,F,59.0,aucun,aucun,aucun,tendance à l'isolement,inquiétude envahissante,Anxiété
+432.0,M,77.0,aucun,aucun,aucun,sensation de malaise,peur irrationnelle,Anxiété
+504.0,F,80.0,aucun,aucun,bouffées de chaleur,irritabilité,phobie des transports,Anxiété
+372.0,M,68.0,aucun,aucun,aucun,sensation de gorge nouée,inquiétude constante,Anxiété
+420.0,M,75.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéïte,Bronchite aiguë
+72.0,M,20.0,aucun,râles bronchiques,fièvre légère,toux importante,trachéo-bronchite,Bronchite aiguë
+600.0,M,90.0,aucun,aucun,râles bronchiques,fièvre modérée,toux sèche,Bronchite aiguë
+96.0,F,25.0,aucun,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,Bronchite aiguë
+900.0,F,60.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+144.0,F,40.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+336.0,F,62.0,aucun,râles bronchiques,fièvre modérée,toux importante,trachéïte,Bronchite aiguë
+840.0,M,88.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéïte,Bronchite aiguë
+60.0,M,18.0,aucun,râles bronchiques,fièvre légère,toux importante,trachéo-bronchite,Bronchite aiguë
+540.0,F,70.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+372.0,F,68.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+744.0,M,92.0,aucun,râles bronchiques,fièvre modérée,toux sèche,trachéïte,Bronchite aiguë
+108.0,M,28.0,aucun,râles bronchiques,fièvre légère,toux importante,trachéo-bronchite,Bronchite aiguë
+456.0,F,72.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+192.0,M,55.0,aucun,aucun,râles bronchiques,fièvre légère,toux sèche,Bronchite aiguë
+528.0,M,78.0,aucun,râles bronchiques,fièvre modérée,toux sèche,trachéïte,Bronchite aiguë
+84.0,F,22.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+672.0,M,92.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+168.0,F,45.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
+720.0,M,95.0,aucun,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,Bronchite aiguë
+456.0,M,70.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+144.0,F,45.0,fièvre légère,toux sèche,trachéïte,laryngite,rhinopharyngite,Bronchite aiguë
+264.0,M,68.0,fièvre modérée,toux productive,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+480.0,F,50.0,fièvre modérée,toux importante,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+180.0,M,35.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
+696.0,M,75.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+384.0,F,63.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+84.0,M,18.0,toux importante,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+804.0,F,80.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
+132.0,F,22.0,fièvre modérée,toux productive,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+348.0,M,67.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+576.0,M,78.0,aucun,râles bronchiques,fièvre légère,toux importante,rhinopharyngite,Bronchite aiguë
+108.0,F,28.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+432.0,M,70.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+228.0,F,55.0,fièvre modérée,toux importante,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+660.0,M,72.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
+72.0,F,16.0,toux sèche,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+744.0,M,85.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+156.0,F,20.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+204.0,F,30.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+336.0,F,65.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+420.0,F,58.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+504.0,F,72.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+348.0,F,60.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+444.0,F,70.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+372.0,F,63.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+468.0,F,75.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+324.0,F,62.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+408.0,F,68.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+384.0,F,61.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
+348.0,F,70.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+432.0,F,69.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+492.0,F,64.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+312.0,F,76.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+396.0,F,59.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+360.0,F,74.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+456.0,F,66.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+360.0,F,72.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+420.0,F,67.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+372.0,F,71.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+24.0,F,12.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+36.0,F,15.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+48.0,F,16.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+60.0,F,18.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+72.0,F,20.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+36.0,F,14.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+48.0,F,17.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+24.0,F,11.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+60.0,F,19.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+72.0,F,21.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+36.0,F,13.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+48.0,F,16.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+24.0,F,10.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+72.0,F,22.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+48.0,F,17.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+60.0,F,19.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+24.0,F,12.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+36.0,F,14.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+60.0,F,18.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+72.0,F,20.0,aucun,fuites urinaires,pleurs en urinant,pollakiurie,brûlures mictionnelles,Cystite aiguë
+504.0,M,75.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+408.0,F,62.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les ailes du nez,Dermatite séborrhéique
+348.0,M,70.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+456.0,F,58.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les sourcils,Dermatite séborrhéique
+540.0,M,80.0,aucun,aucun,aucun,aucun,plaques érythémateuses au bord des paupières,Dermatite séborrhéique
+312.0,F,55.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du sternum,Dermatite séborrhéique
+396.0,M,70.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+444.0,F,63.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les ailes du nez,Dermatite séborrhéique
+336.0,M,68.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur la colonne vertébrale,Dermatite séborrhéique
+492.0,F,60.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+360.0,M,72.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+432.0,F,61.0,aucun,aucun,aucun,aucun,plaques érythémateuses au bord des paupières,Dermatite séborrhéique
+372.0,M,78.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du sternum,Dermatite séborrhéique
+468.0,F,64.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur la colonne vertébrale,Dermatite séborrhéique
+324.0,M,66.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+420.0,F,59.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+528.0,M,73.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les ailes du nez,Dermatite séborrhéique
+384.0,F,65.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du sternum,Dermatite séborrhéique
+516.0,M,76.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+480.0,F,67.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les sourcils,Dermatite séborrhéique
+240.0,M,68.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+264.0,F,55.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les sourcils,Dermatite séborrhéique
+228.0,M,72.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+276.0,F,60.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+252.0,M,70.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+216.0,F,58.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les ailes du nez,Dermatite séborrhéique
+300.0,M,75.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du sternum,Dermatite séborrhéique
+288.0,F,63.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur la colonne vertébrale,Dermatite séborrhéique
+240.0,M,71.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+264.0,F,59.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+228.0,M,69.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+276.0,F,56.0,aucun,aucun,aucun,aucun,plaques érythémateuses au bord des paupières,Dermatite séborrhéique
+252.0,M,74.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du sternum,Dermatite séborrhéique
+216.0,F,61.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur la colonne vertébrale,Dermatite séborrhéique
+300.0,M,67.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+288.0,F,57.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+240.0,M,70.0,aucun,aucun,aucun,aucun,plaques érythémateuses sur les sourcils,Dermatite séborrhéique
+264.0,F,62.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+228.0,M,68.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du périnée,Dermatite séborrhéique
+276.0,F,59.0,aucun,aucun,aucun,aucun,plaques érythémateuses au niveau du cuir chevelu,Dermatite séborrhéique
+504.0,M,80.0,aucun,aucun,aucun,douleurs sur le bras,nodule érythémateux chaud,Furoncle
+420.0,F,65.0,aucun,aucun,aucun,douleurs sur l'aine,nodule érythémateux chaud,Furoncle
+444.0,M,90.0,aucun,aucun,aucun,douleurs sur le dos,nodule érythémateux chaud,Furoncle
+276.0,F,60.0,aucun,aucun,aucun,douleurs sur la poitrine,nodule érythémateux chaud,Furoncle
+348.0,M,78.0,aucun,aucun,aucun,douleurs sur l'épaule,nodule érythémateux chaud,Furoncle
+540.0,M,85.0,aucun,aucun,aucun,douleurs sur la jambe,nodule érythémateux chaud,Furoncle
+324.0,F,62.0,aucun,aucun,aucun,douleurs sur la hanche,nodule érythémateux chaud,Furoncle
+396.0,F,68.0,aucun,aucun,aucun,douleurs sur le bras,nodule érythémateux chaud,Furoncle
+468.0,M,88.0,aucun,aucun,aucun,douleurs sur la fesse,nodule érythémateux chaud,Furoncle
+564.0,M,82.0,aucun,aucun,aucun,douleurs sur le cou,nodule érythémateux chaud,Furoncle
+360.0,F,70.0,aucun,aucun,aucun,douleurs sur la jambe,nodule érythémateux chaud,Furoncle
+432.0,M,79.0,aucun,aucun,adénopathies,fièvre modérée,placard inflammatoire,Furoncle
+528.0,M,87.0,aucun,aucun,aucun,douleurs sur l'épaule,nodule érythémateux chaud,Furoncle
+288.0,F,61.0,aucun,aucun,aucun,douleurs sur l'épaule,nodule érythémateux chaud,Furoncle
+408.0,M,80.0,aucun,aucun,aucun,douleurs sur la cuisse,nodule érythémateux chaud,Furoncle
+336.0,F,55.0,aucun,aucun,aucun,douleurs sur le dos,nodule érythémateux chaud,Furoncle
+540.0,F,75.0,aucun,aucun,aucun,douleurs sur la fesse,nodule érythémateux chaud,Furoncle
+444.0,M,90.0,aucun,aucun,aucun,douleurs sur le cou,nodule érythémateux chaud,Furoncle
+372.0,M,85.0,aucun,aucun,aucun,douleurs sur la cuisse,nodule érythémateux chaud,Furoncle
+336.0,F,63.0,aucun,aucun,aucun,douleurs sur la hanche,nodule érythémateux chaud,Furoncle
+324.0,F,58.0,aucun,aucun,aucun,douleurs sur le bras,nodule érythémateux chaud,Furoncle
+432.0,M,72.0,aucun,aucun,aucun,douleurs sur l'aine,nodule érythémateux chaud,Furoncle
+504.0,M,78.0,aucun,aucun,aucun,douleurs sur le dos,nodule érythémateux chaud,Furoncle
+348.0,F,62.0,aucun,aucun,aucun,douleurs sur la poitrine,nodule érythémateux chaud,Furoncle
+396.0,F,68.0,aucun,aucun,aucun,douleurs sur l'épaule,nodule érythémateux chaud,Furoncle
+492.0,M,76.0,aucun,aucun,aucun,douleurs sur la jambe,nodule érythémateux chaud,Furoncle
+516.0,M,85.0,aucun,aucun,aucun,douleurs sur la hanche,nodule érythémateux chaud,Furoncle
+312.0,F,64.0,aucun,aucun,aucun,douleurs sur le bras,nodule érythémateux chaud,Furoncle
+468.0,F,67.0,aucun,aucun,aucun,douleurs sur la cuisse,nodule érythémateux chaud,Furoncle
+444.0,M,74.0,aucun,aucun,aucun,douleurs sur le cou,nodule érythémateux chaud,Furoncle
+360.0,M,79.0,aucun,aucun,aucun,douleurs sur la jambe,nodule érythémateux chaud,Furoncle
+384.0,F,66.0,aucun,aucun,adénopathies multiples,fièvre modérée,placard inflammatoire,Furoncle
+348.0,M,75.0,aucun,aucun,aucun,douleurs sur la cuisse,nodule érythémateux chaud,Furoncle
+432.0,F,68.0,aucun,aucun,aucun,douleurs sur la jambe,nodule érythémateux chaud,Furoncle
+516.0,M,85.0,aucun,aucun,aucun,douleurs sur l'abdomen,nodule érythémateux chaud,Furoncle
+480.0,M,90.0,aucun,aucun,aucun,douleurs sur la hanche,nodule érythémateux chaud,Furoncle
+300.0,F,55.0,aucun,aucun,adénopathies multiples,fièvre modérée,placard inflammatoire,Furoncle
+456.0,M,80.0,aucun,aucun,aucun,douleurs sur le cou,nodule érythémateux chaud,Furoncle
+420.0,M,72.0,aucun,aucun,aucun,douleurs sur le dos,nodule érythémateux chaud,Furoncle
+504.0,F,65.0,aucun,aucun,aucun,douleurs sur la poitrine,nodule érythémateux chaud,Furoncle
+420.0,M,80.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+600.0,M,95.0,aucun,aucun,aucun,pâleur,tremblements,Hypoglycémie
+336.0,F,60.0,aucun,aucun,aucun,léthargie,fatigue,Hypoglycémie
+456.0,F,70.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+384.0,F,65.0,aucun,aucun,aucun,anxiété,tremblements,Hypoglycémie
+720.0,M,75.0,aucun,aucun,aucun,pâleur,tremblements,Hypoglycémie
+576.0,F,72.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+108.0,M,38.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+120.0,M,42.0,aucun,aucun,aucun,pâleur,tremblements,Hypoglycémie
+132.0,F,36.0,aucun,aucun,aucun,léthargie,fatigue,Hypoglycémie
+96.0,F,30.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+132.0,F,38.0,aucun,aucun,aucun,anxiété,tremblements,Hypoglycémie
+108.0,M,41.0,aucun,aucun,aucun,pâleur,tremblements,Hypoglycémie
+96.0,F,31.0,aucun,aucun,anxiété,sueurs,tremblements,Hypoglycémie
+18.0,M,10.0,aucun,aucun,aucun,sueurs,tremblements,Hypoglycémie
+14.0,F,8.0,aucun,aucun,aucun,confusion,somnolence,Hypoglycémie
+24.0,M,12.0,aucun,aucun,aucun,pâleur,irritabilité,Hypoglycémie
+9.0,F,7.0,aucun,aucun,aucun,tremblements,léthargie,Hypoglycémie
+16.0,M,9.0,aucun,aucun,aucun,anxiété,sueurs,Hypoglycémie
+11.0,F,7.5,aucun,aucun,aucun,léthargie,confusion,Hypoglycémie
+20.0,M,11.0,aucun,aucun,aucun,somnolence,tremblements,Hypoglycémie
+12.0,F,8.5,aucun,aucun,aucun,anxiété,pâleur,Hypoglycémie
+22.0,M,12.5,aucun,aucun,aucun,sueurs,léthargie,Hypoglycémie
+10.0,F,7.8,aucun,aucun,aucun,irritabilité,confusion,Hypoglycémie
+20.0,F,11.0,aucun,aucun,aucun,irritabilité,sueurs,Hypoglycémie
+13.0,M,9.5,aucun,aucun,aucun,pâleur,tremblements,Hypoglycémie
+22.0,F,12.0,aucun,aucun,aucun,fatigue,confusion,Hypoglycémie
+11.0,M,8.0,aucun,aucun,aucun,anxiété,somnolence,Hypoglycémie
+15.0,F,10.0,aucun,aucun,aucun,léthargie,sueurs,Hypoglycémie
+19.0,M,11.5,aucun,aucun,aucun,tremblements,confusion,Hypoglycémie
+10.0,F,7.8,aucun,aucun,aucun,anxiété,irritabilité,Hypoglycémie
+17.0,M,10.8,aucun,aucun,aucun,pâleur,fatigue,Hypoglycémie
+8.0,F,7.0,aucun,aucun,aucun,confusion,tremblements,Hypoglycémie
+18.0,M,11.0,aucun,aucun,aucun,léthargie,anxiété,Hypoglycémie
+18.0,M,10.0,aucun,aucun,aucun,sueurs,tremblements,Hypoglycémie
+14.0,F,7.2,aucun,aucun,aucun,confusion,somnolence,Hypoglycémie
+24.0,M,12.0,aucun,aucun,aucun,pâleur,irritabilité,Hypoglycémie
+9.0,F,7.0,aucun,aucun,aucun,tremblements,léthargie,Hypoglycémie
+16.0,M,9.0,aucun,aucun,aucun,anxiété,sueurs,Hypoglycémie
+10.0,F,7.8,aucun,aucun,aucun,irritabilité,confusion,Hypoglycémie
+504.0,F,68.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+540.0,M,92.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+660.0,M,88.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+96.0,F,32.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+108.0,M,40.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+120.0,M,45.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+504.0,F,68.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+540.0,M,92.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+600.0,M,95.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+108.0,M,40.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+120.0,M,45.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+660.0,M,88.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+384.0,F,65.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+576.0,F,72.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+456.0,F,70.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+120.0,M,42.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+504.0,F,68.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+540.0,M,92.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+600.0,M,95.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+108.0,M,40.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+98.0,M,38.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+660.0,M,88.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+24.0,F,30.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+576.0,F,72.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+456.0,F,70.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+120.0,M,42.0,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+22.0,M,11.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+30.0,F,13.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+16.0,M,8.5,aucun,aucun,aucun,coma,confusion,Hypoglycémie sévère
+18.0,F,9.0,aucun,aucun,aucun,coma,convulsions,Hypoglycémie sévère
+28.0,M,12.5,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+20.0,F,10.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+24.0,M,10.5,aucun,aucun,aucun,somnolence,convulsions,Hypoglycémie sévère
+36.0,F,15.0,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+14.0,M,7.8,aucun,aucun,aucun,confusion,convulsions,Hypoglycémie sévère
+26.0,F,11.0,aucun,aucun,aucun,coma,convulsions,Hypoglycémie sévère
+12.0,M,6.5,aucun,aucun,aucun,convulsions,confusion,Hypoglycémie sévère
+32.0,F,14.0,aucun,aucun,aucun,somnolence,convulsions,Hypoglycémie sévère
+10.0,M,5.0,aucun,aucun,aucun,somnolence,convulsions,Hypoglycémie sévère
+34.0,F,14.5,aucun,aucun,aucun,coma,convulsions,Hypoglycémie sévère
+504.0,M,75.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+348.0,F,58.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+420.0,F,63.0,aucun,aucun,aucun,aucun,réveil matinal précoce,Insomnie
+600.0,M,70.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+336.0,M,80.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+456.0,F,65.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+540.0,M,90.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+372.0,F,60.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+648.0,F,70.0,aucun,aucun,aucun,aucun,réveil matinal précoce,Insomnie
+324.0,M,75.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+480.0,F,68.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+432.0,M,72.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+576.0,F,78.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+384.0,F,62.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+528.0,M,85.0,aucun,aucun,aucun,aucun,réveil matinal précoce,Insomnie
+312.0,M,72.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+396.0,F,66.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+468.0,M,80.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+564.0,F,74.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+360.0,F,64.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+444.0,M,72.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+300.0,F,55.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+588.0,M,85.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+372.0,M,78.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+492.0,F,66.0,aucun,aucun,aucun,aucun,réveil matinal précoce,Insomnie
+264.0,M,70.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+636.0,F,72.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+408.0,F,61.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+552.0,M,80.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+348.0,M,68.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+468.0,F,62.0,aucun,aucun,aucun,aucun,réveil matinal précoce,Insomnie
+288.0,M,74.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+672.0,F,69.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+360.0,F,57.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+612.0,M,76.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+312.0,F,58.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+516.0,M,79.0,aucun,aucun,aucun,aucun,fatigue,Insomnie
+396.0,M,75.0,aucun,aucun,aucun,aucun,sommeil interrompu,Insomnie
+564.0,F,64.0,aucun,aucun,aucun,aucun,difficulté d'endormissement,Insomnie
+432.0,F,63.0,aucun,aucun,aucun,aucun,cauchemars,Insomnie
+504.0,F,55.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+300.0,M,70.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+360.0,F,63.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+456.0,M,78.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+228.0,F,61.0,aucun,aucun,aucun,onchodermatite papulaire aiguë,onchocercomes,Onchocercose
+540.0,M,72.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,troubles visuels,Onchocercose
+336.0,F,57.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+264.0,M,68.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+384.0,F,60.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+660.0,M,73.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+324.0,F,66.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+408.0,M,59.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+480.0,F,71.0,aucun,aucun,aucun,aucun,troubles visuels,Onchocercose
+312.0,F,69.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+396.0,M,74.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,troubles visuels,Onchocercose
+468.0,F,56.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+288.0,M,65.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+372.0,F,70.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+516.0,M,62.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+240.0,F,59.0,aucun,aucun,aucun,lésions cutanées chroniques tardives,onchocercomes,Onchocercose
+432.0,M,68.0,aucun,aucun,aucun,onchodermatite papulaire aiguë,onchocercomes,Onchocercose
+528.0,F,73.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+264.0,M,60.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+360.0,F,67.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+456.0,M,71.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+18.0,M,10.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+24.0,F,12.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+30.0,M,9.0,aucun,aucun,aucun,aucun,troubles visuels,Onchocercose
+36.0,F,11.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+42.0,M,10.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+78.0,M,9.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+84.0,F,11.0,aucun,aucun,aucun,aucun,troubles visuels,Onchocercose
+90.0,M,10.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+96.0,F,12.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+102.0,M,9.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+108.0,F,11.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+114.0,M,10.0,aucun,aucun,aucun,aucun,lésions cutanées chroniques tardives,Onchocercose
+120.0,F,12.0,aucun,aucun,aucun,troubles visuels,onchocercomes,Onchocercose
+126.0,M,9.0,aucun,aucun,aucun,aucun,troubles visuels,Onchocercose
+132.0,F,11.0,aucun,aucun,aucun,aucun,onchodermatite papulaire aiguë,Onchocercose
+540.0,M,70.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite externe aiguë
+96.0,F,25.0,aucun,aucun,aucun,douleur à l'oreille,prurit auriculaire,Otite externe aiguë
+384.0,F,62.0,aucun,aucun,aucun,douleur à l'oreille,rougeur,Otite externe aiguë
+660.0,M,80.0,aucun,aucun,aucun,sensation bouchée,écoulement clair,Otite externe aiguë
+144.0,M,40.0,aucun,aucun,aucun,écoulement purulent,prurit auriculaire,Otite externe aiguë
+336.0,F,55.0,aucun,aucun,aucun,écoulement purulent,douleur à l'oreille,Otite externe aiguë
+720.0,F,70.0,aucun,aucun,aucun,sensation bouchée,prurit auriculaire,Otite externe aiguë
+72.0,M,22.0,aucun,aucun,aucun,sensation bouchée,otalgie,Otite externe aiguë
+480.0,M,75.0,aucun,aucun,aucun,écoulement purulent,douleur à l'oreille,Otite externe aiguë
+180.0,F,50.0,aucun,aucun,aucun,sensation bouchée,prurit auriculaire,Otite externe aiguë
+600.0,F,65.0,aucun,aucun,aucun,douleur à l'oreille,écoulement purulent,Otite externe aiguë
+108.0,M,28.0,aucun,aucun,aucun,sensation bouchée,otalgie,Otite externe aiguë
+420.0,M,70.0,aucun,aucun,aucun,douleur à l'oreille,rougeur,Otite externe aiguë
+576.0,M,80.0,aucun,aucun,aucun,écoulement clair,prurit auriculaire,Otite externe aiguë
+120.0,F,32.0,aucun,aucun,aucun,sensation bouchée,écoulement purulent,Otite externe aiguë
+348.0,F,58.0,aucun,aucun,aucun,écoulement clair,otalgie,Otite externe aiguë
+780.0,M,75.0,aucun,aucun,aucun,sensation bouchée,douleur à l'oreille,Otite externe aiguë
+84.0,M,30.0,aucun,aucun,aucun,écoulement purulent,prurit auriculaire,Otite externe aiguë
+456.0,F,63.0,aucun,aucun,aucun,douleur à l'oreille,rougeur,Otite externe aiguë
+624.0,F,68.0,aucun,aucun,aucun,écoulement clair,otalgie,Otite externe aiguë
+360.0,F,55.0,aucun,aucun,aucun,sensation bouchée,otalgie,Otite externe aiguë
+60.0,M,20.0,aucun,aucun,aucun,écoulement clair,prurit auriculaire,Otite externe aiguë
+6.0,M,5.0,aucun,aucun,aucun,écoulement purulent,rougeur,Otite externe aiguë
+816.0,F,75.0,aucun,aucun,aucun,douleur à l'oreille,otalgie,Otite externe aiguë
+3.0,F,7.0,aucun,aucun,aucun,écoulement purulent,prurit auriculaire,Otite externe aiguë
+300.0,M,50.0,aucun,aucun,aucun,douleur à l'oreille,rougeur,Otite externe aiguë
+696.0,M,68.0,aucun,aucun,aucun,sensation bouchée,écoulement clair,Otite externe aiguë
+9.0,M,9.0,aucun,aucun,aucun,sensation bouchée,prurit auriculaire,Otite externe aiguë
+420.0,F,62.0,aucun,aucun,aucun,écoulement clair,douleur à l'oreille,Otite externe aiguë
+3.0,F,8.0,aucun,aucun,aucun,douleur à l'oreille,prurit auriculaire,Otite externe aiguë
+576.0,M,72.0,aucun,aucun,aucun,sensation bouchée,écoulement purulent,Otite externe aiguë
+72.0,F,6.0,aucun,aucun,aucun,douleur à l'oreille,otalgie,Otite externe aiguë
+492.0,M,69.0,aucun,aucun,aucun,écoulement purulent,rougeur,Otite externe aiguë
+636.0,F,80.0,aucun,aucun,aucun,sensation bouchée,prurit auriculaire,Otite externe aiguë
+4.0,M,7.0,aucun,aucun,aucun,sensation bouchée,écoulement clair,Otite externe aiguë
+324.0,F,52.0,aucun,aucun,aucun,écoulement clair,prurit auriculaire,Otite externe aiguë
+744.0,M,70.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite externe aiguë
+7.0,M,6.0,aucun,aucun,aucun,écoulement purulent,douleur à l'oreille,Otite externe aiguë
+444.0,F,58.0,aucun,aucun,aucun,douleur à l'oreille,prurit auriculaire,Otite externe aiguë
+660.0,F,65.0,aucun,aucun,aucun,douleur à l'oreille,écoulement purulent,Otite externe aiguë
+360.0,M,55.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+60.0,F,20.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+6.0,M,5.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+816.0,M,75.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+3.0,M,7.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+300.0,F,50.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+696.0,M,68.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+9.0,F,9.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+420.0,F,62.0,aucun,aucun,fièvre élévée,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+2.4,F,8.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+576.0,F,72.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+72.0,M,6.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+492.0,F,69.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+636.0,M,80.0,aucun,aucun,fièvre élévée,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+3.6,M,7.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+324.0,M,52.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+744.0,F,70.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+7.199999999999999,F,6.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+444.0,F,58.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+660.0,F,65.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+360.0,F,55.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+60.0,M,10.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+6.0,F,5.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+816.0,F,75.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+3.0,M,7.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+300.0,F,50.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+696.0,M,68.0,aucun,aucun,fièvre élévée,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+9.0,F,9.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+420.0,F,62.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+2.4,F,8.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+576.0,M,72.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+72.0,M,6.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+492.0,M,69.0,aucun,aucun,aucun,fièvre élévée,otalgie,Otite moyenne aiguë (OMA)
+636.0,M,80.0,aucun,aucun,aucun,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+3.6,F,7.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+324.0,F,52.0,aucun,aucun,fièvre élévée,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+744.0,F,70.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+7.199999999999999,F,6.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+444.0,F,58.0,aucun,aucun,fièvre élévée,écoulement purulent,otalgie,Otite moyenne aiguë (OMA)
+660.0,M,65.0,aucun,aucun,aucun,écoulement de liquide,otalgie,Otite moyenne aiguë (OMA)
+3.0,M,9.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+7.0,M,10.5,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+2.0,F,5.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+360.0,M,45.0,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+168.0,M,37.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+612.0,F,55.5,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+624.0,F,56.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+948.0,M,69.5,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+792.0,M,63.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+720.0,F,60.0,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+168.0,M,37.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+456.0,M,49.0,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+600.0,F,55.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+624.0,F,56.0,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+468.0,M,49.5,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+672.0,F,58.0,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+828.0,M,64.5,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+312.0,F,43.0,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+636.0,M,56.5,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+24.0,M,23.0,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+888.0,M,67.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+288.0,M,42.0,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+288.0,M,42.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+504.0,F,51.0,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+228.0,M,39.5,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+312.0,F,43.0,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+144.0,M,36.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+324.0,M,43.5,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+648.0,F,57.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+384.0,F,46.0,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+660.0,M,57.5,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+588.0,M,54.5,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+960.0,M,70.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+396.0,F,46.5,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+504.0,F,51.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+876.0,M,66.5,aucun,aucun,aucun,surdité,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+408.0,M,47.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+312.0,F,43.0,aucun,aucun,aucun,surdité,écoulement purulent,Otite moyenne chronique suppurée (OMCS)
+768.0,M,62.0,aucun,aucun,aucun,diminution de l’audition,écoulement purulent depuis plus de 2 semaines,Otite moyenne chronique suppurée (OMCS)
+888.0,F,67.0,aucun,aucun,aucun,surdité,écoulement purulent persistant,Otite moyenne chronique suppurée (OMCS)
+36.0,M,12.0,aucun,aucun,maux de tête,frissons,fièvre modérée,Paludisme
+24.0,F,9.0,aucun,aucun,fatigue,vomissements,fièvre modérée,Paludisme
+48.0,M,15.0,aucun,aucun,aucun,douleurs abdominales,fièvre modérée,Paludisme
+12.0,F,5.0,aucun,aucun,diarrhée,anémie,fièvre modérée,Paludisme
+60.0,M,20.0,aucun,aucun,confusion,sueurs,fièvre modérée,Paludisme
+18.0,F,7.0,aucun,aucun,perte d'appétit,céphalées,fièvre modérée,Paludisme
+72.0,M,25.0,aucun,aucun,vomissements,frissons,fièvre modérée,Paludisme
+6.0,F,4.0,aucun,aucun,diarrhée,faiblesse,fièvre modérée,Paludisme
+42.0,M,14.0,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Paludisme
+30.0,F,11.0,aucun,aucun,nausées,maux de tête,fièvre modérée,Paludisme
+14.0,M,7.0,aucun,aucun,vomissements,frissons,fièvre modérée,Paludisme
+45.0,F,16.0,aucun,aucun,diarrhée,frissons,fièvre modérée,Paludisme
+8.0,M,4.2,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Paludisme
+58.0,F,19.0,aucun,aucun,confusion,maux de tête,fièvre modérée,Paludisme
+16.0,M,7.8,aucun,aucun,fatigue,vomissements,fièvre modérée,Paludisme
+77.0,F,26.0,aucun,aucun,nausées,sueurs,fièvre modérée,Paludisme
+28.0,M,11.5,aucun,aucun,vomissements,frissons,fièvre modérée,Paludisme
+10.0,F,5.2,aucun,aucun,perte d'appétit,vomissements,fièvre modérée,Paludisme
+44.0,M,16.5,aucun,aucun,sueurs,confusion,fièvre modérée,Paludisme
+20.0,F,8.0,aucun,aucun,aucun,douleurs abdominales,fièvre modérée,Paludisme
+64.0,M,24.0,aucun,aucun,maux de tête,vomissements,fièvre modérée,Paludisme
+5.0,F,3.8,aucun,aucun,diarrhée,faiblesse,fièvre modérée,Paludisme
+34.0,M,12.8,aucun,aucun,perte d'appétit,maux de tête,fièvre modérée,Paludisme
+56.0,F,19.5,aucun,aucun,vomissements,frissons,fièvre modérée,Paludisme
+8.0,M,4.3,aucun,aucun,confusion,fatigue,fièvre modérée,Paludisme
+32.0,F,10.5,aucun,aucun,douleurs musculaires,sueurs,fièvre modérée,Paludisme
+68.0,M,22.7,aucun,aucun,diarrhée,vomissements,fièvre modérée,Paludisme
+14.0,F,6.7,aucun,aucun,perte d'appétit,frissons,fièvre modérée,Paludisme
+46.0,M,18.2,aucun,aucun,sueurs,maux de tête,fièvre modérée,Paludisme
+4.0,F,3.5,aucun,aucun,fatigue,vomissements,fièvre modérée,Paludisme
+552.0,F,56.0,aucun,aucun,douleurs musculaires,diarrhée,fièvre modérée,Paludisme
+408.0,M,79.0,aucun,aucun,maux de tête,sueurs,fièvre modérée,Paludisme
+348.0,M,77.0,aucun,aucun,faiblesse,confusion,fièvre modérée,Paludisme
+576.0,F,59.0,aucun,aucun,aucun,douleurs abdominales,fièvre modérée,Paludisme
+384.0,M,71.0,aucun,aucun,nausées,maux de tête,fièvre modérée,Paludisme
+612.0,F,61.0,aucun,aucun,perte d'appétit,sueurs,fièvre modérée,Paludisme
+480.0,M,80.0,aucun,aucun,diarrhée,maux de tête,fièvre modérée,Paludisme
+636.0,F,65.0,aucun,aucun,douleurs musculaires,confusion,fièvre modérée,Paludisme
+324.0,M,73.0,aucun,aucun,aucun,douleurs abdominales,fièvre modérée,Paludisme
+672.0,F,57.0,aucun,aucun,aucun,douleurs abdominales,fièvre modérée,Paludisme
+504.0,M,75.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+456.0,F,68.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+540.0,M,80.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+432.0,F,62.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+480.0,M,70.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+468.0,F,67.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+516.0,M,78.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+444.0,F,65.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+528.0,M,79.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+492.0,F,76.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+144.0,M,35.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+120.0,F,28.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+96.0,M,22.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+132.0,F,30.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+108.0,M,25.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+156.0,F,32.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+84.0,M,20.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+180.0,F,36.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+168.0,M,33.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+192.0,F,38.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+384.0,M,75.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+324.0,F,68.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+408.0,M,80.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+372.0,F,62.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+480.0,M,70.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+96.0,F,22.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+120.0,M,30.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+108.0,F,25.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+156.0,M,32.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+84.0,F,20.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+552.0,M,82.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+468.0,F,70.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+492.0,M,79.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+432.0,F,57.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+528.0,M,78.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+420.0,F,59.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+444.0,M,75.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+456.0,F,60.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+540.0,M,79.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+360.0,F,63.0,aucun,aucun,démence,diarrhée,plaques cutanées,Pellagre
+24.0,M,12.5,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+18.0,F,10.2,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Poliomyélite
+30.0,M,14.8,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+14.0,F,9.3,aucun,aucun,aucun,aucun,syndrome méningé,Poliomyélite
+12.0,M,8.5,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+20.0,F,11.1,aucun,aucun,paralysie,vomissements,fièvre modérée,Poliomyélite
+8.0,M,7.2,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+22.0,F,12.7,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+16.0,M,10.9,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+26.0,F,13.4,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+10.0,M,8.9,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+28.0,F,14.2,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+11.0,M,9.0,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+24.0,F,12.1,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Poliomyélite
+15.0,M,10.5,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+32.0,F,15.8,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+9.0,M,7.5,aucun,aucun,paralysie,vomissements,fièvre modérée,Poliomyélite
+19.0,F,11.8,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+13.0,M,9.2,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+21.0,F,12.4,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+25.0,M,13.0,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+17.0,F,9.95,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Poliomyélite
+31.0,M,15.3,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+13.0,F,9.05,aucun,aucun,aucun,aucun,syndrome méningé,Poliomyélite
+13.0,M,9.0,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+19.0,F,10.85,aucun,aucun,paralysie,vomissements,fièvre modérée,Poliomyélite
+9.0,M,7.7,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+21.0,F,12.45,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+17.0,M,11.4,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+25.0,F,13.15,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+11.0,M,9.4,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+27.0,F,13.95,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+12.0,M,9.5,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+23.0,F,11.85,aucun,aucun,aucun,douleurs musculaires,fièvre modérée,Poliomyélite
+16.0,M,11.0,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+31.0,F,15.55,aucun,aucun,aucun,aucun,paralysie des bras,Poliomyélite
+10.0,M,8.0,aucun,aucun,paralysie,vomissements,fièvre modérée,Poliomyélite
+18.0,F,11.55,aucun,aucun,aucun,aucun,paralysie des jambes,Poliomyélite
+14.0,M,9.7,aucun,aucun,aucun,aucun,paralysie des membres supérieurs,Poliomyélite
+20.0,F,12.15,aucun,aucun,aucun,aucun,paralysie des membres inférieurs,Poliomyélite
+540.0,M,75.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+624.0,M,82.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+456.0,M,70.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+684.0,M,88.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+588.0,M,76.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+504.0,M,79.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+660.0,M,87.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+492.0,M,73.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+576.0,M,78.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+600.0,M,80.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+672.0,M,85.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+468.0,M,68.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+564.0,M,74.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+636.0,M,81.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+528.0,M,72.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+612.0,M,84.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+696.0,M,89.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+516.0,M,71.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+552.0,M,77.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+648.0,M,83.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+540.0,M,80.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+660.0,M,75.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+384.0,M,90.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+720.0,M,85.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+456.0,M,70.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+576.0,M,88.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+504.0,M,78.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+336.0,M,95.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+600.0,M,82.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+420.0,M,75.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+528.0,M,92.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+624.0,M,80.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+348.0,M,88.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+696.0,M,77.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+432.0,M,72.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+564.0,M,85.0,douleurs périnéales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+648.0,M,78.0,douleurs urétrales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+396.0,M,89.0,douleurs péniennes,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+672.0,M,84.0,douleurs rectales,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+468.0,M,79.0,retention d'urine,pollakiurie,brûlures mictionnelles,frissons,fièvre élevée,Prostatite aiguë
+600.0,M,89.2,aucun,aucun,aucun,nausées,fièvre modérée,Reflux gastro-œsophagien
+528.0,M,90.8,aucun,aucun,aucun,nausées,fièvre modérée,Reflux gastro-œsophagien
+480.0,M,80.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+432.0,F,65.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+288.0,M,70.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+720.0,F,75.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+444.0,M,90.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+348.0,M,78.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+372.0,F,55.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+324.0,F,62.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+456.0,M,75.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+396.0,F,68.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+468.0,M,88.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+312.0,F,63.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+564.0,M,82.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+360.0,F,70.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+432.0,M,79.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+384.0,F,58.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+528.0,M,87.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+288.0,F,61.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+84.0,M,25.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+60.0,F,18.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+72.0,M,22.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+48.0,F,20.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+96.0,M,28.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+36.0,F,15.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+108.0,M,30.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+84.0,F,26.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+60.0,M,23.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+72.0,F,19.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+96.0,M,27.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+72.0,F,21.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+84.0,M,26.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+60.0,F,19.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+108.0,M,32.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+48.0,F,17.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+96.0,M,29.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+72.0,F,23.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+84.0,M,28.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+60.0,F,20.0,aucun,aucun,aucun,régurgitations acides,brûlures épigastriques,Reflux gastro-œsophagien
+516.0,F,84.0,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+504.0,M,55.0,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+348.0,M,79.0,aucun,aucun,aucun,mal de gorge,écoulement nasal,Rhinite (rhume)
+324.0,F,55.0,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+324.0,M,62.0,aucun,aucun,aucun,fièvre modérée,obstruction nasale,Rhinite (rhume)
+6.0,F,7.2,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+24.0,M,12.3,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+30.0,M,14.0,aucun,aucun,aucun,mal de gorge,écoulement nasal,Rhinite (rhume)
+12.0,F,7.8,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+5.0,M,6.2,aucun,aucun,aucun,fièvre modérée,obstruction nasale,Rhinite (rhume)
+300.0,M,70.2,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+384.0,F,58.9,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinite (rhume)
+456.0,M,80.4,aucun,aucun,aucun,larmoiement,obstruction nasale,Rhinite (rhume)
+552.0,F,65.7,aucun,aucun,aucun,éternuements,écoulement nasal,Rhinite (rhume)
+348.0,M,72.8,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+420.0,F,63.5,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+504.0,M,77.1,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+600.0,F,68.6,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinite (rhume)
+324.0,M,74.9,aucun,aucun,aucun,larmoiement,obstruction nasale,Rhinite (rhume)
+396.0,F,61.2,aucun,aucun,aucun,éternuements,écoulement nasal,Rhinite (rhume)
+468.0,M,78.7,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+564.0,F,67.4,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+372.0,M,71.5,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+444.0,F,59.8,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinite (rhume)
+540.0,M,76.3,aucun,aucun,aucun,larmoiement,obstruction nasale,Rhinite (rhume)
+336.0,F,64.7,aucun,aucun,aucun,éternuements,écoulement nasal,Rhinite (rhume)
+408.0,M,69.6,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+480.0,F,61.9,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+312.0,M,73.5,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+432.0,F,57.3,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinite (rhume)
+528.0,M,79.8,aucun,aucun,aucun,larmoiement,obstruction nasale,Rhinite (rhume)
+360.0,F,62.4,aucun,aucun,aucun,éternuements,écoulement nasal,Rhinite (rhume)
+576.0,M,70.2,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+348.0,F,65.8,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+456.0,M,76.4,aucun,aucun,aucun,éternuements,obstruction nasale,Rhinite (rhume)
+612.0,F,67.5,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinite (rhume)
+324.0,M,74.2,aucun,aucun,aucun,larmoiement,obstruction nasale,Rhinite (rhume)
+420.0,F,60.9,aucun,aucun,aucun,éternuements,écoulement nasal,Rhinite (rhume)
+492.0,M,77.3,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinite (rhume)
+588.0,F,68.1,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinite (rhume)
+372.0,M,45.0,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+588.0,M,61.0,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+504.0,F,80.0,aucun,aucun,toux légère,fièvre modérée,écoulement nasal,Rhinopharyngite
+456.0,F,81.0,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinopharyngite
+612.0,M,81.0,aucun,aucun,aucun,écoulement nasal,mal de gorge,Rhinopharyngite
+264.0,F,58.0,aucun,aucun,toux légère,larmoiement,fièvre modérée,Rhinopharyngite
+240.0,M,61.0,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+264.0,F,48.0,aucun,aucun,aucun,larmoiement,mal de gorge,Rhinopharyngite
+480.0,F,55.0,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+540.0,M,46.0,aucun,aucun,toux légère,mal de gorge,fièvre modérée,Rhinopharyngite
+18.0,M,10.5,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+10.0,M,9.0,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+14.0,F,8.8,aucun,aucun,toux légère,fièvre modérée,écoulement nasal,Rhinopharyngite
+7.0,F,6.5,aucun,aucun,aucun,toux légère,obstruction nasale,Rhinopharyngite
+9.0,M,8.1,aucun,aucun,aucun,écoulement nasal,mal de gorge,Rhinopharyngite
+16.0,F,10.2,aucun,aucun,toux légère,larmoiement,fièvre modérée,Rhinopharyngite
+8.0,M,7.0,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+22.0,F,11.5,aucun,aucun,aucun,larmoiement,mal de gorge,Rhinopharyngite
+11.0,F,8.3,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+19.0,M,10.8,aucun,aucun,toux légère,mal de gorge,fièvre modérée,Rhinopharyngite
+264.0,M,72.3,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+348.0,F,63.7,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+432.0,M,79.6,aucun,aucun,aucun,toux légère,mal de gorge,Rhinopharyngite
+516.0,F,65.1,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+336.0,M,70.8,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+408.0,F,58.4,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinopharyngite
+492.0,M,76.7,aucun,aucun,aucun,larmoiement,mal de gorge,Rhinopharyngite
+576.0,F,67.2,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+312.0,M,74.4,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+384.0,F,61.9,aucun,aucun,aucun,toux légère,écoulement nasal,Rhinopharyngite
+456.0,M,78.0,aucun,aucun,aucun,toux légère,mal de gorge,Rhinopharyngite
+540.0,F,66.8,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+360.0,M,72.1,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+444.0,F,60.2,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinopharyngite
+528.0,M,77.8,aucun,aucun,aucun,toux,mal de gorge,Rhinopharyngite
+372.0,F,64.5,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+420.0,M,69.0,aucun,aucun,aucun,éternuements,mal de gorge,Rhinopharyngite
+504.0,F,79.3,aucun,aucun,aucun,larmoiement,écoulement nasal,Rhinopharyngite
+324.0,M,71.7,aucun,aucun,aucun,toux,mal de gorge,Rhinopharyngite
+396.0,F,62.3,aucun,aucun,aucun,fièvre modérée,écoulement nasal,Rhinopharyngite
+15.0,M,9.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+20.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+18.0,M,10.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+22.0,F,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+24.0,M,9.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+27.0,F,11.0,aucun,aucun,aucun,conjonctivite,fièvre modérée,Rougeole
+30.0,M,10.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+33.0,F,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+36.0,M,9.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+39.0,F,11.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+42.0,M,10.0,aucun,aucun,aucun,éruption cutanée,fièvre modérée,Rougeole
+45.0,F,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+48.0,M,9.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+51.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+54.0,M,10.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+57.0,F,12.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+60.0,M,9.0,aucun,aucun,conjonctivite,éruption cutanée,fièvre modérée,Rougeole
+63.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+66.0,M,10.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+69.0,F,12.0,aucun,aucun,aucun,éruption cutanée,fièvre modérée,Rougeole
+14.0,M,9.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+22.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+17.0,M,10.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+14.0,F,9.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+24.0,M,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+27.0,F,14.0,aucun,aucun,aucun,conjonctivite,fièvre modérée,Rougeole
+30.0,M,10.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+33.0,F,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+36.0,M,9.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+39.0,F,11.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+42.0,M,10.0,aucun,aucun,aucun,éruption cutanée,fièvre modérée,Rougeole
+35.0,F,12.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+48.0,M,9.0,aucun,aucun,conjonctivite,toux légère,fièvre modérée,Rougeole
+51.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+44.0,M,15.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+57.0,F,12.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+60.0,M,9.0,aucun,aucun,conjonctivite,éruption cutanée,fièvre modérée,Rougeole
+63.0,F,11.0,aucun,aucun,toux légère,éruption cutanée,fièvre modérée,Rougeole
+64.0,M,10.0,aucun,aucun,aucun,toux légère,fièvre modérée,Rougeole
+69.0,F,17.0,aucun,aucun,aucun,éruption cutanée,fièvre modérée,Rougeole
+420.0,M,75.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+336.0,M,80.0,aucun,aucun,fièvre modérée,douleur faciale (maxillaire),écoulement purulent bilatéral,Sinusite bactérienne
+600.0,F,70.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+540.0,F,68.0,aucun,aucun,fièvre modérée,douleur faciale (maxillaire),écoulement purulent unilatéral,Sinusite bactérienne
+660.0,F,63.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+480.0,M,70.0,aucun,aucun,fièvre modérée,douleur faciale (front),écoulement purulent bilatéral,Sinusite bactérienne
+576.0,M,75.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+624.0,M,78.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+528.0,F,67.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+696.0,F,64.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+564.0,F,70.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+408.0,M,74.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+72.0,F,20.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+84.0,F,22.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+96.0,F,24.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+108.0,F,26.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+120.0,F,28.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+72.0,M,20.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+84.0,M,22.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+96.0,M,24.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+108.0,M,26.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+300.0,M,75.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+480.0,F,70.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+420.0,F,68.0,aucun,aucun,fièvre modérée,douleur faciale (maxillaire),écoulement purulent unilatéral,Sinusite bactérienne
+780.0,F,63.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+480.0,M,50.0,aucun,aucun,fièvre modérée,douleur faciale (front),écoulement purulent bilatéral,Sinusite bactérienne
+696.0,M,75.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+504.0,M,68.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+768.0,F,47.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+336.0,F,64.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+564.0,F,70.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+408.0,M,74.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+216.0,M,56.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+168.0,F,27.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+108.0,F,43.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+192.0,M,18.0,aucun,aucun,fièvre modérée,douleur faciale (front),écoulement purulent bilatéral,Sinusite bactérienne
+264.0,M,68.0,aucun,fièvre modérée,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+60.0,F,17.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+228.0,F,44.0,aucun,fièvre modérée,douleur faciale (maxillaire),obstruction nasale,écoulement nasal,Sinusite bactérienne
+408.0,M,64.0,fièvre modérée,léthargie,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite bactérienne
+504.0,F,65.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+456.0,M,85.0,aucun,douleur faciale (front),toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+396.0,M,72.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+348.0,F,62.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+432.0,F,68.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+372.0,M,73.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+444.0,M,76.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+672.0,F,66.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+60.0,M,18.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+48.0,M,16.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+36.0,M,14.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+24.0,M,12.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+12.0,M,10.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+48.0,M,16.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+132.0,F,30.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+144.0,F,32.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+156.0,F,34.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+168.0,F,36.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+180.0,F,38.0,aucun,fièvre légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+384.0,F,65.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+216.0,M,80.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+576.0,M,65.0,aucun,douleur faciale (front),toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+276.0,M,62.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+468.0,F,42.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+552.0,F,68.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+252.0,M,53.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+444.0,M,76.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+672.0,F,66.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+72.0,F,25.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+120.0,M,22.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+288.0,M,65.0,aucun,douleur faciale (front),toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+84.0,F,35.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+336.0,M,32.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+360.0,F,42.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+144.0,M,75.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+96.0,F,18.0,aucun,irritabilité,toux légère,obstruction nasale,écoulement nasal,Sinusite virale
+132.0,M,33.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+324.0,M,56.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+432.0,F,66.0,aucun,aucun,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+684.0,F,58.5,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+360.0,F,45.0,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+264.0,M,41.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+228.0,M,39.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+192.0,M,38.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+204.0,M,38.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+276.0,F,41.5,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+516.0,M,51.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+132.0,F,35.5,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+252.0,F,40.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+360.0,M,45.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+636.0,M,56.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+384.0,F,46.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+396.0,M,46.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+144.0,F,36.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+408.0,M,47.0,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+672.0,F,58.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+720.0,M,60.0,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+432.0,F,48.0,aucun,aucun,aucun,aucun,gingivite hémorragique,Stomatite du  scorbut
+132.0,M,35.5,aucun,aucun,aucun,aucun,gingivite hémorragique et douleurs des membres,Stomatite du  scorbut
+110.0,F,26.0,aucun,aucun,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+672.0,F,52.0,aucun,aucun,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+67.0,M,19.0,aucun,aucun,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+264.0,M,42.0,aucun,aucun,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+420.0,M,48.0,aucun,alimentation carencée,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+396.0,F,58.0,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+420.0,F,39.0,aucun,alimentation carencée,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+432.0,F,41.0,aucun,alimentation carencée,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+708.0,M,42.0,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+216.0,F,52.0,aucun,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,Stomatite du  scorbut
+660.0,F,33.0,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+600.0,F,33.0,aucun,aucun,aucun,aucun,hématomes sous-périostés,Stomatite du  scorbut
+36.0,M,11.0,aucun,alimentation carencée,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+600.0,M,39.0,aucun,aucun,aucun,aucun,douleurs des membres inférieurs,Stomatite du  scorbut
+384.0,F,60.0,aucun,alimentation carencée,hématomes sous-périostés,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+552.0,M,43.0,aucun,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,Stomatite du  scorbut
+600.0,F,51.0,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+252.0,F,50.0,aucun,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,Stomatite du  scorbut
+324.0,M,52.0,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,gingivite hémorragique,Stomatite du  scorbut
+264.0,F,32.0,aucun,aucun,aucun,alimentation carencée,douleurs des membres inférieurs,Stomatite du  scorbut
+36.0,M,15.0,aucun,détresse respiratoire,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+60.0,F,18.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+84.0,M,22.0,aucun,aucun,pâleur,détresse respiratoire,fièvre modérée,Trachéite bactérienne
+24.0,F,12.0,aucun,aucun,fièvre modérée,toux légère,stridor,Trachéite bactérienne
+108.0,M,28.0,aucun,aucun,aucun,détresse respiratoire,stridor,Trachéite bactérienne
+144.0,F,40.0,aucun,hypotonie générale,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+48.0,M,16.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+96.0,F,25.0,aucun,aucun,cyanose,détresse respiratoire,fièvre modérée,Trachéite bactérienne
+72.0,M,20.0,aucun,aucun,pâleur,toux légère,stridor,Trachéite bactérienne
+120.0,F,35.0,aucun,somnolence,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+216.0,M,65.0,aucun,sécrétions purulentes,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+180.0,F,50.0,aucun,aucun,détresse respiratoire,toux légère,stridor,Trachéite bactérienne
+12.0,M,10.0,aucun,aucun,hypotonie générale,toux légère,stridor,Trachéite bactérienne
+168.0,F,45.0,aucun,pâleur,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+132.0,M,30.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+240.0,F,70.0,aucun,détresse respiratoire,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+24.0,M,12.0,aucun,aucun,somnolence,toux légère,stridor,Trachéite bactérienne
+204.0,F,55.0,aucun,hypotonie générale,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+156.0,M,35.0,aucun,aucun,cyanose,toux légère,stridor,Trachéite bactérienne
+192.0,F,60.0,aucun,aucun,sécrétions purulentes,détresse respiratoire,fièvre modérée,Trachéite bactérienne
+72.0,M,18.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+48.0,F,14.0,aucun,aucun,pâleur,détresse respiratoire,fièvre modérée,Trachéite bactérienne
+96.0,M,20.0,aucun,aucun,hypotonie générale,toux légère,stridor,Trachéite bactérienne
+24.0,F,12.0,aucun,aucun,somnolence,toux légère,stridor,Trachéite bactérienne
+120.0,M,26.0,aucun,sécrétions purulentes,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+156.0,F,38.0,aucun,aucun,détresse respiratoire,toux légère,stridor,Trachéite bactérienne
+60.0,M,16.0,aucun,aucun,somnolence,toux légère,stridor,Trachéite bactérienne
+108.0,F,22.0,aucun,détresse respiratoire,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+84.0,M,19.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+132.0,F,28.0,aucun,pâleur,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+180.0,M,35.0,aucun,aucun,cyanose,toux légère,stridor,Trachéite bactérienne
+36.0,F,13.0,aucun,aucun,sécrétions purulentes,toux légère,stridor,Trachéite bactérienne
+144.0,M,30.0,aucun,somnolence,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+168.0,F,33.0,aucun,aucun,détresse respiratoire,toux légère,stridor,Trachéite bactérienne
+12.0,M,10.0,aucun,aucun,hypotonie générale,toux légère,stridor,Trachéite bactérienne
+192.0,F,37.0,aucun,sécrétions purulentes,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+228.0,M,45.0,aucun,aucun,cyanose,toux légère,stridor,Trachéite bactérienne
+204.0,F,40.0,aucun,pâleur,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+240.0,M,50.0,aucun,aucun,détresse respiratoire,toux légère,stridor,Trachéite bactérienne
+216.0,F,42.0,aucun,somnolence,toux légère,stridor,fièvre modérée,Trachéite bactérienne
+336.0,F,60.0,aucun,aucun,aucun,irritation,écoulement vaginal,Trichomonase
+264.0,F,55.0,aucun,aucun,aucun,douleur,écoulement jaune-verdâtre,Trichomonase
+480.0,F,70.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
+348.0,M,80.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+372.0,F,62.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+396.0,F,68.0,aucun,aucun,aucun,aucun,écoulement jaune-verdâtre,Trichomonase
+540.0,M,85.0,aucun,aucun,aucun,écoulement discret,urétrite,Trichomonase
+360.0,F,58.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
+324.0,F,61.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+456.0,F,63.0,aucun,aucun,aucun,aucun,écoulement jaune-verdâtre,Trichomonase
+288.0,F,56.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
+504.0,M,79.0,aucun,aucun,aucun,dysurie,balanite,Trichomonase
+432.0,F,66.0,aucun,aucun,aucun,douleur,écoulement jaune-verdâtre,Trichomonase
+276.0,F,59.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+468.0,F,64.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
+384.0,F,60.0,aucun,aucun,aucun,aucun,écoulement vaginal jaune-verdâtre,Trichomonase
+336.0,M,70.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+432.0,F,63.0,aucun,aucun,aucun,aucun,écoulement vaginal malodorant,Trichomonase
+540.0,M,75.0,aucun,aucun,aucun,aucun,urétrite avec écoulement discret,Trichomonase
+348.0,F,58.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+468.0,M,80.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+372.0,F,65.0,aucun,aucun,aucun,aucun,écoulement vaginal jaune-verdâtre,Trichomonase
+504.0,M,72.0,aucun,aucun,aucun,aucun,urétrite avec dysurie,Trichomonase
+324.0,F,55.0,aucun,aucun,aucun,aucun,écoulement vaginal malodorant,Trichomonase
+396.0,M,78.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+408.0,F,61.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+552.0,M,85.0,aucun,aucun,aucun,aucun,urétrite avec écoulement discret,Trichomonase
+360.0,F,57.0,aucun,aucun,aucun,aucun,écoulement vaginal jaune-verdâtre,Trichomonase
+444.0,M,74.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+420.0,F,62.0,aucun,aucun,aucun,aucun,écoulement vaginal malodorant,Trichomonase
+576.0,M,90.0,aucun,aucun,aucun,aucun,urétrite avec écoulement discret,Trichomonase
+456.0,F,68.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
+348.0,M,70.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
+516.0,F,64.0,aucun,aucun,aucun,aucun,écoulement vaginal jaune-verdâtre,Trichomonase
+312.0,M,68.0,aucun,aucun,aucun,aucun,urétrite avec dysurie,Trichomonase
+420.0,F,60.0,aucun,aucun,aucun,irritation vulvaire,écoulement vaginal jaune-verdâtre,Trichomonase
+336.0,F,55.0,aucun,aucun,aucun,irritation vulvaire,écoulement vaginal malodorant,Trichomonase
+504.0,F,70.0,aucun,aucun,aucun,dysurie,écoulement vaginal jaune-verdâtre,Trichomonase
+300.0,F,50.0,aucun,aucun,aucun,irritation vulvaire,écoulement vaginal jaune-verdâtre,Trichomonase
+372.0,F,58.0,aucun,aucun,aucun,dysurie,écoulement vaginal malodorant,Trichomonase
+492.0,F,50.5,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+264.0,M,41.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+420.0,F,47.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+360.0,F,45.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+600.0,F,55.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+840.0,M,65.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+720.0,M,60.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+756.0,M,61.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+396.0,M,46.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+504.0,M,51.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+168.0,F,37.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+720.0,F,60.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+744.0,F,61.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+384.0,M,46.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+348.0,M,44.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+804.0,F,63.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+264.0,M,41.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+252.0,F,40.5,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+240.0,F,40.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+552.0,F,53.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+780.0,M,62.5,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+780.0,M,62.5,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+168.0,M,37.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+480.0,M,50.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+300.0,F,42.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+504.0,F,51.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+360.0,F,45.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+276.0,M,41.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+756.0,F,61.5,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+552.0,F,53.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+516.0,F,51.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+840.0,M,65.0,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+744.0,M,61.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+336.0,M,44.0,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+360.0,M,45.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+420.0,M,47.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+636.0,M,56.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+312.0,F,43.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
+396.0,F,46.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
+588.0,F,54.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
+323.0,M,56.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
