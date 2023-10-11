@@ -44,19 +44,19 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 42.0,M,9.5,aucun,dyspnée,vertiges,asthénie,pâleur,Anémie
 96.0,F,20.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 120.0,M,50.0,aucun,soif,vertiges,asthénie,pâleur,Anémie
-48.0,F,10.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+48.0,F,10.0,aucun,aucun,aucun,sueurs,pâleur,Anémie
 144.0,M,55.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
 192.0,F,60.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
 72.0,M,14.0,aucun,aucun,aucun,état de choc,pâleur,Anémie
 216.0,F,63.0,aucun,dyspnée,soif,asthénie,pâleur,Anémie
 84.0,M,15.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
 240.0,F,68.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
-168.0,M,58.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+168.0,M,58.0,aucun,aucun,aucun,sueurs,pâleur,Anémie
 288.0,F,73.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 96.0,M,20.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
 180.0,F,60.0,aucun,aucun,aucun,vertiges,pâleur,Anémie
 120.0,M,50.0,aucun,aucun,aucun,tachycardie,pâleur,Anémie
-240.0,F,68.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+240.0,F,68.0,aucun,aucun,aucun,sueurs,pâleur,Anémie
 144.0,M,55.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 312.0,F,78.0,aucun,dyspnée,vertiges,asthénie,pâleur,Anémie
 30.0,M,8.5,aucun,aucun,aucun,asthénie,pâleur,Anémie
@@ -64,18 +64,18 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 90.0,M,11.2,aucun,aucun,aucun,tachycardie,pâleur,Anémie
 168.0,F,17.8,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 270.0,M,21.5,aucun,aucun,aucun,soif,pâleur,Anémie
-150.0,F,16.0,aucun,aucun,aucun,sueur,pâleur,Anémie
+150.0,F,16.0,aucun,aucun,aucun,sueurs,pâleur,Anémie
 210.0,M,18.3,aucun,aucun,aucun,tachycardie,pâleur,Anémie
 360.0,F,26.7,aucun,aucun,aucun,asthénie,pâleur,Anémie
 480.0,M,35.2,aucun,aucun,tachycardie,état de choc,pâleur,Anémie
 540.0,F,39.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 720.0,M,45.8,aucun,aucun,aucun,tachycardie,pâleur,Anémie
-216.0,F,19.4,aucun,aucun,aucun,sueur,pâleur,Anémie
+216.0,F,19.4,aucun,aucun,aucun,sueurs,pâleur,Anémie
 480.0,M,40.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 720.0,F,60.2,aucun,aucun,aucun,asthénie,pâleur,Anémie
 180.0,M,15.1,aucun,aucun,aucun,vertiges,pâleur,Anémie
 240.0,F,20.7,aucun,aucun,aucun,tachycardie,pâleur,Anémie
-360.0,M,29.5,aucun,aucun,aucun,sueur,pâleur,Anémie
+360.0,M,29.5,aucun,aucun,aucun,sueurs,pâleur,Anémie
 480.0,F,40.3,aucun,aucun,aucun,dyspnée,pâleur,Anémie
 600.0,M,50.0,aucun,aucun,aucun,asthénie,pâleur,Anémie
 440.0,F,39.0,aucun,aucun,aucun,dyspnée,pâleur,Anémie
@@ -179,26 +179,26 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 672.0,M,92.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
 168.0,F,45.0,aucun,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,Bronchite aiguë
 720.0,M,95.0,aucun,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,Bronchite aiguë
-456.0,M,70.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-144.0,F,45.0,fièvre légère,toux sèche,trachéïte,laryngite,rhinopharyngite,Bronchite aiguë
-264.0,M,68.0,fièvre modérée,toux productive,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-480.0,F,50.0,fièvre modérée,toux importante,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+456.0,M,70.0,râles bronchiques,fièvre modérée,toux productive,pharyngite,rhinopharyngite,Bronchite aiguë
+144.0,F,45.0,râles bronchiques,fièvre légère,toux sèche,trachéïte,rhinopharyngite,Bronchite aiguë
+264.0,M,68.0,râles bronchiques,fièvre modérée,toux productive,pharyngite,rhinopharyngite,Bronchite aiguë
+480.0,F,50.0,râles bronchiques,fièvre modérée,toux importante,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
 180.0,M,35.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
-696.0,M,75.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-384.0,F,63.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
-84.0,M,18.0,toux importante,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+696.0,M,75.0,râles bronchiques,fièvre modérée,toux productive,trachéïte,rhinopharyngite,Bronchite aiguë
+384.0,F,63.0,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
+84.0,M,18.0,fièvre modérée,toux importante,trachéïte,laryngite,rhinopharyngite,Bronchite aiguë
 804.0,F,80.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
-132.0,F,22.0,fièvre modérée,toux productive,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
-348.0,M,67.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+132.0,F,22.0,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
+348.0,M,67.0,râles bronchiques,fièvre modérée,toux productive,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
 576.0,M,78.0,aucun,râles bronchiques,fièvre légère,toux importante,rhinopharyngite,Bronchite aiguë
-108.0,F,28.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
-432.0,M,70.0,toux productive,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-228.0,F,55.0,fièvre modérée,toux importante,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
+108.0,F,28.0,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
+432.0,M,70.0,râles bronchiques,fièvre modérée,toux productive,pharyngite,rhinopharyngite,Bronchite aiguë
+228.0,F,55.0,râles bronchiques,fièvre modérée,toux importante,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
 660.0,M,72.0,aucun,râles bronchiques,fièvre légère,toux sèche,rhinopharyngite,Bronchite aiguë
-72.0,F,16.0,toux sèche,trachéïte,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-744.0,M,85.0,fièvre légère,toux sèche,trachéo-bronchite,laryngite,rhinopharyngite,Bronchite aiguë
-156.0,F,20.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
-204.0,F,30.0,toux productive,trachéo-bronchite,laryngite,pharyngite,rhinopharyngite,Bronchite aiguë
+72.0,F,16.0,râles bronchiques,fièvre modérée,toux sèche,laryngite,rhinopharyngite,Bronchite aiguë
+744.0,M,85.0,râles bronchiques,fièvre légère,toux sèche,trachéo-bronchite,rhinopharyngite,Bronchite aiguë
+156.0,F,20.0,râles bronchiques,fièvre légère,toux productive,pharyngite,rhinopharyngite,Bronchite aiguë
+204.0,F,30.0,râles bronchiques,fièvre légère,toux productive,laryngite,rhinopharyngite,Bronchite aiguë
 336.0,F,65.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
 420.0,F,58.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
 504.0,F,72.0,aucun,aucun,aucun,pollakiurie,brûlures mictionnelles,Cystite aiguë
@@ -1079,7 +1079,7 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 240.0,M,50.0,aucun,aucun,détresse respiratoire,toux légère,stridor,Trachéite bactérienne
 216.0,F,42.0,aucun,somnolence,toux légère,stridor,fièvre modérée,Trachéite bactérienne
 336.0,F,60.0,aucun,aucun,aucun,irritation,écoulement vaginal,Trichomonase
-264.0,F,55.0,aucun,aucun,aucun,douleur,écoulement jaune-verdâtre,Trichomonase
+264.0,F,55.0,aucun,aucun,aucun,douleurs,écoulement jaune-verdâtre,Trichomonase
 480.0,F,70.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
 348.0,M,80.0,aucun,aucun,aucun,aucun,balanite,Trichomonase
 372.0,F,62.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
@@ -1090,7 +1090,7 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 456.0,F,63.0,aucun,aucun,aucun,aucun,écoulement jaune-verdâtre,Trichomonase
 288.0,F,56.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
 504.0,M,79.0,aucun,aucun,aucun,dysurie,balanite,Trichomonase
-432.0,F,66.0,aucun,aucun,aucun,douleur,écoulement jaune-verdâtre,Trichomonase
+432.0,F,66.0,aucun,aucun,aucun,douleurs,écoulement jaune-verdâtre,Trichomonase
 276.0,F,59.0,aucun,aucun,aucun,aucun,irritation vulvaire,Trichomonase
 468.0,F,64.0,aucun,aucun,aucun,aucun,écoulement malodorant,Trichomonase
 384.0,F,60.0,aucun,aucun,aucun,aucun,écoulement vaginal jaune-verdâtre,Trichomonase
@@ -1158,4 +1158,4 @@ Age (en mois),Sexe,Poids (kg),Symptome_5,Symptome_4,Symptome_3,Symptome_2,Sympto
 312.0,F,43.0,aucun,sueurs nocturnes,fièvre prolongée,expectoration,toux persistante,Tuberculose pulmonaire
 396.0,F,46.5,aucun,aucun,perte de poids,douleurs thoraciques,toux prolongée,Tuberculose pulmonaire
 588.0,F,54.5,aucun,aucun,dyspnée à l'effort,fatigue,toux chronique,Tuberculose pulmonaire
-323.0,M,56.0,aucun,toux,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale
+323.0,M,56.0,aucun,toux légère,douleur faciale (front),obstruction nasale,écoulement nasal,Sinusite virale

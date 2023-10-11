@@ -20,17 +20,23 @@ class DiseasesPredictionModel:
         df.loc[:, df.select_dtypes(include=['int', 'float']).columns] = scaled_data
         
         #encodage
+        cat_col=[]
+        result= np.zeros((df.shape[0], len(self.encoders['Symptome_1'].classes_)))
+        prev_mod = [f"{mod}" for mod in list(self.encoders['Symptome_1'].classes_)]
         for col, encoder in self.encoders.items():
             if col != 'Pathologie':
-                enc_data = encoder.transform(df.loc[:, col].astype(str))
-                prev_mod = [f"{col}_{mod}" for mod in list(encoder.classes_)]
-                if(len(prev_mod)==enc_data.shape[1]):
-                    df[prev_mod] = enc_data
+                if col=='Sexe':
+                    enc_data = encoder.transform(df.loc[:, col].astype(str))
                     df.drop(col,axis=1,inplace=True)
-                else:
-                    df.drop(col,axis=1,inplace=True) 
                     df[col] = enc_data
-                
+                else :
+                    cat_col.append(col)
+                    enc_data = encoder.transform(df[col].astype(str))
+                    result = np.logical_or(result, enc_data)
+                    
+        combined_symptomes = result.astype(int)
+        df.drop(cat_col, axis=1, inplace=True)
+        df[prev_mod] = combined_symptomes
         return df
 
     def predict_disease(self, X):

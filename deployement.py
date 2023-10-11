@@ -38,7 +38,6 @@ class Input(BaseModel):
 # Ouput for data validation
 class Output(BaseModel):
     Pathologie: str
-    # Details: dict
 
 
 
@@ -83,7 +82,6 @@ async def predict_disease(data : Input):
     classe_predite = get_best_prediction(details_prediction)
     return {
         'Pathologie':classe_predite,
-        # 'Details':details_prediction.to_dict()
     }
  
 def predict_for_all(models,data):
